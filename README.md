@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=dnmzz&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=dnmzz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 ![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnmzz&count_private=false&include_all_commits=true&theme=tokyonight&layout=compact)
 

@@ -8,6 +8,4 @@
 
 ![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=dnmzz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnmzz&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnmzz&include_all_commits=true&theme=tokyonight" alt="mystreak"/>
